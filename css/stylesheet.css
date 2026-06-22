@@ -1,3 +1,7 @@
 h1 {
-    font-family: "Lustria"
+    font-family: "Lustria", serif; 
+}
+
+p {
+    font-family: "Lato", sans-serif;
 }
