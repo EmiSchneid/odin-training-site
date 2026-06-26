@@ -2,16 +2,20 @@
 
 h1 {
     font-family: "Newsreader", serif; 
+    font-weight: 500;
 }
 
 p {
     font-family: "Nunito Sans", sans-serif;
+    font-weight: 400;
 }
 
 ol {
     font-family: "Nunito Sans"; 
+    font-size: 400;
 }
 
 ul {
     font-family: "Nunito Sans";
+    font-weight: 400;
 }
