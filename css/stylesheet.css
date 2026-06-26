@@ -12,11 +12,19 @@
   color: #051F72;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: underline;
+  text-decoration: none;
   font-size: 24px;
   font-weight: 400;
   font-family: "Nunito Sans";
+}
 
+title {
+    font-family: "Newsreader";
+    font-size: 48px;
+    font-weight: 700;
+    color:#051F72;
+    float: left;
+    
 }
 
 /* Change the color of links on hover 
