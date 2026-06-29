@@ -54,12 +54,12 @@ h2 {
     font-family: "Newsreader", serif;
     font-weight: 500;
     color: #051F72;
+    padding-top: 12px;
 }
 
 p {
     font-family: "Nunito Sans", sans-serif;
     font-weight: 400;
-    padding-bottom: 8px;
 }
 
 ol {
