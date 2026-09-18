@@ -13,7 +13,7 @@
 
 .topnav a {
   float: right;
-  color: #051F72;
+  color: #051f72;
   text-align: left;
   text-decoration: underline;
   font-size: 20px;
@@ -22,13 +22,13 @@
 }
 
 #title {
-    font-family: "Newsreader";
-    font-size: 40px;
-    font-weight: 700;
-    color:#051F72;
-    float: left;
-    text-align: left;
-    text-decoration: none;
+  font-family: "Newsreader";
+  font-size: 40px;
+  font-weight: 700;
+  color: #051f72;
+  float: left;
+  text-align: left;
+  text-decoration: none;
 }
 
 /* Change the color of links on hover 
@@ -41,33 +41,33 @@
 .topnav a.active {
   font-weight: 500;
   text-decoration: underline;
-  text-decoration-color: #051F72;
+  text-decoration-color: #051f72;
 }
 
 h1 {
-    font-family: "Newsreader", serif; 
-    font-weight: 700;
-    color: #051F72;
+  font-family: "Newsreader", serif;
+  font-weight: 700;
+  color: #051f72;
 }
 
 h2 {
-    font-family: "Newsreader", serif;
-    font-weight: 500;
-    color: #051F72;
-    padding-top: 24px;
+  font-family: "Newsreader", serif;
+  font-weight: 500;
+  color: #051f72;
+  padding-top: 24px;
 }
 
 p {
-    font-family: "Nunito Sans", sans-serif;
-    font-weight: 400;
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 400;
 }
 
 ol {
-    font-family: "Nunito Sans"; 
-    font-size: 400;
+  font-family: "Nunito Sans";
+  font-size: 400;
 }
 
 ul {
-    font-family: "Nunito Sans";
-    font-weight: 400;
+  font-family: "Nunito Sans";
+  font-weight: 400;
 }
